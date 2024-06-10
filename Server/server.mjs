@@ -1,4 +1,4 @@
-const express =  requires('express');
+const express =  require('express');
 
 const server = express();
 const porta = 3333;
