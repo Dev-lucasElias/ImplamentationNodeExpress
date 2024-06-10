@@ -1,4 +1,4 @@
-import express from 'express';
+const express =  requires('express');
 
 const server = express();
 const porta = 3333;
